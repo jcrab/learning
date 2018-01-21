@@ -2,5 +2,5 @@
 import sys
 print(sys.platform)
 print(2 ** 100)
-x = 'Spamm!'
+x = 'Spam!'
 print(x * 2)
