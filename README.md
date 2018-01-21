@@ -1,2 +1,2 @@
 # learning
-Learning python by Mark Lutz
+Learning Python by Mark Lutz
