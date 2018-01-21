@@ -1,5 +1,5 @@
 # A first Python script
-# testing cache
+# testing cache on Windows??
 import sys
 print(sys.platform)
 print(2 ** 100)
